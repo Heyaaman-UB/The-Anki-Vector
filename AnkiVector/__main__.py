@@ -88,7 +88,7 @@ buttons = [
     ],
     [
         InlineKeyboardButton(
-            text="➕ Add 🇦 🇱 🇪 🇽 🇦 to your group ➕",
+            text="➕ Add Cyborg to your group ➕",
             url="t.me/CyborgProbot?startgroup=true",
         ),
     ],
